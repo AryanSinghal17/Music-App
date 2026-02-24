@@ -1,4 +1,12 @@
 {
   "name": "YtReact",
-  "displayName": "YtReact"
+  "displayName": "YtReact",
+  "extra": {
+    "eas": {
+      "projectId": "7240362e-2e30-4c2d-b97f-9969a0389414"
+    }
+  },
+  "plugins": [
+    "expo-asset"
+  ]
 }
